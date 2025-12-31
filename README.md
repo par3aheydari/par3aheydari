@@ -3,10 +3,10 @@
     Hi there! 👋 I'm Parsa Heydari
   </span>
 </h1>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="200" alt="Coding GIF"/>
 </p>
+
 
 <p align="center">
   <strong>
